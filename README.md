@@ -20,7 +20,7 @@ Designed comprehensive logical and physical network architectures with a 6-perso
 Authored comprehensive technical documentation detailing SQL programming architectures for non-technical users. Engineered step-by-step edge cases and utilized data visualizations to maximize clarity and operational deployment.
 
 **[MealSpark](https://mealspark.tech):**
-A web application that generates recipes based on user-uploaded photos of ingredients. Built to be fast and usable without requiring an account. Integrated with the Google Gemini API to parse complex image data into actionable recipes.
+A web application that generates recipes based on user-uploaded photos of ingredients. Built to be fast and usable without requiring an account. Designed UI/UX concepts and integrated Google Gemini API to parse complex image data into actionable recipes.  
 
 **Interactive Monster Game:**
 Developed a Java OOP game, programming core gameplay logic for player actions and randomized monster attacks. Presented the underlying UML system architecture and demonstrated the game to a technical audience of 30.
